@@ -23,3 +23,5 @@ hasil2 = keliling(s1,s2,a)
 
 print("Hasilnya adalah :",hasil1)
 print("Keliling : ",hasil2)
+
+print("sedang mengeck git pull")
